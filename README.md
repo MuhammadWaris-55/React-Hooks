@@ -78,7 +78,7 @@ The main goal of this project is to understand **how hooks work**, **why they ar
 
 
 
-####🧑‍💻 Author
+#### 🧑‍💻 Author
 
 Waris
 
