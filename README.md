@@ -83,5 +83,3 @@ The main goal of this project is to understand **how hooks work**, **why they ar
 Waris
 
 If you find this repo helpful, don’t forget to ⭐ star it!
-{value && <input type="text" />}
-<button onClick={toggleValue}>Hide / Show</button>
